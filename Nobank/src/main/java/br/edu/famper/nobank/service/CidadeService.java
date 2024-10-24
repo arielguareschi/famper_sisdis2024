@@ -29,4 +29,9 @@ public class CidadeService {
                 )
                 .toList();
     }
+
+    // buscar uma cidade
+    // inserir uma cidade
+    // editar uma cidade
+    // apagar uma cidade
 }
