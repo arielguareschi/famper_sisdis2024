@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574d28cd-e4cc-41d5-bb59-0751c4c01575" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../exemplo1/src/main/java/br/edu/famper/exemplo1/controller/ProdutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo1/src/main/java/br/edu/famper/exemplo1/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo1/src/main/java/br/edu/famper/exemplo1/repository/ProdutoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo1/src/main/java/br/edu/famper/exemplo1/service/ProdutoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nobank/src/main/java/br/edu/famper/nobank/controller/CidadeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Nobank/src/main/java/br/edu/famper/nobank/controller/CidadeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nobank/src/main/java/br/edu/famper/nobank/dto/CidadeDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Nobank/src/main/java/br/edu/famper/nobank/dto/CidadeDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nobank/src/main/java/br/edu/famper/nobank/service/CidadeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Nobank/src/main/java/br/edu/famper/nobank/service/CidadeService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,18 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "arielguareschi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arielguareschi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/arielguareschi/famper_sisdis2024.git",
-    "accountId": "afadba59-6f28-4387-95b3-1f56dd8f00f7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arielguareschi/famper_sisdis2024.git&quot;,
+    &quot;accountId&quot;: &quot;afadba59-6f28-4387-95b3-1f56dd8f00f7&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,28 +36,28 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2maBj3vFBti1ocEETxqEB5jjBRD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Fontes/famper_sd/ApiGym",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Fontes/famper_sd/ApiGym&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ApiGymApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="ApiGym" />
@@ -71,8 +70,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727304942188</updated>
       <workItem from="1727304943219" duration="116000" />
+      <workItem from="1730932906522" duration="26000" />
     </task>
     <servers />
   </component>
